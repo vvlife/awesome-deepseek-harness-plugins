@@ -126,6 +126,7 @@ Everything below is community-built and sits on top of these seams.
 - [LingLambda/dsh-undo](https://github.com/LingLambda/dsh-undo) (★1) — Undo support.
 - [fakechris/dsh-track](https://github.com/fakechris/dsh-track) (★1) — Tracking helper.
 - [omdsh-dev/dsh-plugin-skills](https://github.com/omdsh-dev/dsh-plugin-skills) (★1) — Skills plugin.
+- [leechen298/Code2Skill](https://github.com/leechen298/Code2Skill) (★0, v1.1.3) — Generates Function, MCP, Agent Skill, and offline test packages from existing code as an installable DSH bundle.
 - [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) (★1) — Mnemonics plugin.
 - [ArtificialNotImbecile/dsh-context-taxonomy](https://github.com/ArtificialNotImbecile/dsh-context-taxonomy) — Context taxonomy.
 
