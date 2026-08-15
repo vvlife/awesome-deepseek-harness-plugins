@@ -144,6 +144,7 @@ Everything below is community-built and sits on top of these seams.
 - [yyh-001/dsh-companion](https://github.com/yyh-001/dsh-companion) (★2) — Companion plugin.
 - [vibeinging/dsh-work](https://github.com/vibeinging/dsh-work) (★2) — Work plugin.
 - [omdsh-dev/dsh-gomoku](https://github.com/omdsh-dev/dsh-gomoku) (★5) — Gomoku game plugin.
+- [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer.
 
 ### Integrations & Bridges
 
