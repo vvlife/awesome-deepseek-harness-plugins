@@ -143,6 +143,7 @@ Everything below is community-built and sits on top of these seams.
 - [yyh-001/dsh-companion](https://github.com/yyh-001/dsh-companion) (★2) — Companion plugin.
 - [vibeinging/dsh-work](https://github.com/vibeinging/dsh-work) (★2) — Work plugin.
 - [omdsh-dev/dsh-gomoku](https://github.com/omdsh-dev/dsh-gomoku) (★5) — Gomoku game plugin.
+- [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) (★5) — Continual self-evolution: versioned, auditable, rollback-safe harness state (prompt notes, memories, skills, subagent specs) refined from session trajectories.
 
 ### Integrations & Bridges
 
