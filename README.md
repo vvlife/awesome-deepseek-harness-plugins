@@ -208,6 +208,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-bash-scripting](https://github.com/satan9394/dsh-bash-scripting) (★0) — Defensive Bash scripting: set -euo pipefail, argument validation, error handling, debuggability, security.
 - [satan9394/dsh-gitops](https://github.com/satan9394/dsh-gitops) (★0) — GitOps workflow: declarative infrastructure, Git as source of truth, continuous reconciliation, progressive delivery (ArgoCD/Flux).
 - [satan9394/dsh-pci-compliance](https://github.com/satan9394/dsh-pci-compliance) (★0) — PCI compliance: cardholder data protection, six-pillar security controls, scope reduction strategies.
+- [satan9394/dsh-agent-teams](https://github.com/satan9394/dsh-agent-teams) (★0) — Multi-agent team collaboration: roles, task coordination, parallel workflows, communication protocols.
+- [satan9394/dsh-parallel-dev](https://github.com/satan9394/dsh-parallel-dev) (★0) — Parallel feature development: file ownership, interface contracts first, vertical slices vs horizontal layers.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
