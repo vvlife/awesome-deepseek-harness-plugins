@@ -178,6 +178,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-academic-research](https://github.com/satan9394/dsh-academic-research) (★0) — Academic research pipeline: question → literature → verification → synthesis → paper → review.
 - [satan9394/dsh-a11y-audit](https://github.com/satan9394/dsh-a11y-audit) (★0) — WCAG 2.2 accessibility audit: POUR principles, conformance levels, automated + manual verification, remediation guidance.
 - [satan9394/dsh-web-clone](https://github.com/satan9394/dsh-web-clone) (★0) — Web clone: extract fonts/colors/motion/component specs from a reference image/URL and generate a high-fidelity web project.
+- [satan9394/dsh-database-design](https://github.com/satan9394/dsh-database-design) (★0) — Database table design: PK/normalization/indexes/data types/constraints/performance, PostgreSQL-focused + general rules.
+- [satan9394/dsh-changelog](https://github.com/satan9394/dsh-changelog) (★0) — Changelog automation: Keep a Changelog + Conventional Commits + semantic versioning, generate release notes from commits/PRs.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
