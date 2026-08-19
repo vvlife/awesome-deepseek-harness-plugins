@@ -244,6 +244,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-e2e-testing](https://github.com/satan9394/dsh-e2e-testing) (★0) — End-to-end testing (Playwright/Cypress): test pyramid boundaries, critical journeys, anti-flaky strategies, CI sharding, failure traces, a11y & responsive checks.
 - [satan9394/dsh-review-agent-governance](https://github.com/satan9394/dsh-review-agent-governance) (★0) — Review-agent governance: human-approval windows gating agent PR reviews/merges/releases/CI edits, Cedar default-deny, Ed25519 receipts, offline chain verification.
 - [satan9394/dsh-x-twitter-research](https://github.com/satan9394/dsh-x-twitter-research) (★0) — X/Twitter research: account research, timeline/trend monitoring, launch-signal tracking, giveaway audits, approval-gated posting (read-first workflow).
+- [satan9394/dsh-codebase-scanner](https://github.com/satan9394/dsh-codebase-scanner) (★0) — Codebase scanner: generate project-doc.md (tech stack/architecture/style/data) & AGENTS.md, full + delta scans detecting drift, context-window-safe analysis.
+- [satan9394/dsh-track-driven-dev](https://github.com/satan9394/dsh-track-driven-dev) (★0) — Track-driven development: tracks as work units (spec.md → plan.md → TDD implementation), phase checkpoints, quality gates, commit SHA records, testable acceptance criteria.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
