@@ -258,6 +258,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-dotnet-backend](https://github.com/satan9394/dsh-dotnet-backend) (★0) — .NET backend patterns: Clean Architecture layering, DI lifetimes, EF Core/Dapper (N+1 prevention), IOptions config, Redis caching, Polly resilience, xUnit testing.
 - [satan9394/dsh-before-you-build](https://github.com/satan9394/dsh-before-you-build) (★0) — Pre-build risk review: seven-dimension pre-mortem (demand/positioning/monetization/retention/trust/distribution/adoption), risk verdict, key assumption, smallest validation step.
 - [satan9394/dsh-threat-modeling](https://github.com/satan9394/dsh-threat-modeling) (★0) — Threat modeling: attack tree construction (OR/AND/leaf with cost/time/skill/detection), STRIDE classification, mitigation mapping & prioritization, residual risk.
+- [satan9394/dsh-operating-kit](https://github.com/satan9394/dsh-operating-kit) (★0) — Session operating discipline: start briefing (state doc/live check/drift reconciliation), end finalization (lessons/issues/next steps), stale-state prevention.
+- [satan9394/dsh-content-marketing](https://github.com/satan9394/dsh-content-marketing) (★0) — Content marketing: topical clusters & multi-format creation, SEO (SERP gaps/schema/technical), social/email automation, omnichannel distribution, GA4 & CRO review.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
