@@ -198,6 +198,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-incremental](https://github.com/satan9394/dsh-incremental) (★0) — Incremental implementation: small verifiable steps, keep the system runnable, avoid big-bang changes.
 - [satan9394/dsh-source-driven](https://github.com/satan9394/dsh-source-driven) (★0) — Source-driven development: back every framework decision with official docs, verify and cite sources, no coding from memory.
 - [satan9394/dsh-code-simplify](https://github.com/satan9394/dsh-code-simplify) (★0) — Code simplification: remove redundancy, reduce complexity, drop unnecessary abstractions, keep behavior identical.
+- [satan9394/dsh-docs-adr](https://github.com/satan9394/dsh-docs-adr) (★0) — Documentation & ADRs: record the why, ADR format, documentation strategy, when not to write docs.
+- [satan9394/dsh-debug-recovery](https://github.com/satan9394/dsh-debug-recovery) (★0) — Debugging & error recovery: evidence-first, error classification, systematic root-cause, recovery strategies, regression prevention.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
