@@ -250,6 +250,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-kubernetes-operations](https://github.com/satan9394/dsh-kubernetes-operations) (★0) — Kubernetes operations: Helm chart scaffolding & templating, Pod Security Standards (restricted), NetworkPolicy & RBAC least-privilege, deploy troubleshooting.
 - [satan9394/dsh-reverse-engineering](https://github.com/satan9394/dsh-reverse-engineering) (★0) — Reverse engineering: binary analysis (disassembly/control-flow patterns), memory forensics, protocol RE, anti-reversing awareness, legal boundaries.
 - [satan9394/dsh-hr-legal-compliance](https://github.com/satan9394/dsh-hr-legal-compliance) (★0) — HR & legal compliance: employment contract/offer letter/NDA templates, employee vs contractor, GDPR data handling (consent/DSR/privacy by design).
+- [satan9394/dsh-brand-landingpage](https://github.com/satan9394/dsh-brand-landingpage) (★0) — Brand-first landing page design: brand identity interview → design system tokens → generate/feedback loop → deployment-ready HTML (responsive + perf).
+- [satan9394/dsh-framework-migration](https://github.com/satan9394/dsh-framework-migration) (★0) — Framework migration: AngularJS→Angular (hybrid/incremental), React modernization, dependency upgrade path (codemod/breaking changes), rollback-safe risk management.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
