@@ -180,6 +180,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-web-clone](https://github.com/satan9394/dsh-web-clone) (★0) — Web clone: extract fonts/colors/motion/component specs from a reference image/URL and generate a high-fidelity web project.
 - [satan9394/dsh-database-design](https://github.com/satan9394/dsh-database-design) (★0) — Database table design: PK/normalization/indexes/data types/constraints/performance, PostgreSQL-focused + general rules.
 - [satan9394/dsh-changelog](https://github.com/satan9394/dsh-changelog) (★0) — Changelog automation: Keep a Changelog + Conventional Commits + semantic versioning, generate release notes from commits/PRs.
+- [satan9394/dsh-postmortem](https://github.com/satan9394/dsh-postmortem) (★0) — Blameless incident postmortems: root-cause analysis (5 Whys), timeline, action items, organizational learning.
+- [satan9394/dsh-runbook](https://github.com/satan9394/dsh-runbook) (★0) — Incident runbooks: severity levels, detect→triage→mitigate→recover→communicate, escalation paths, on-call handoff.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
