@@ -248,6 +248,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-track-driven-dev](https://github.com/satan9394/dsh-track-driven-dev) (★0) — Track-driven development: tracks as work units (spec.md → plan.md → TDD implementation), phase checkpoints, quality gates, commit SHA records, testable acceptance criteria.
 - [satan9394/dsh-data-engineering](https://github.com/satan9394/dsh-data-engineering) (★0) — Data engineering: Airflow DAG design (idempotent/atomic/incremental/observable), dbt layered modeling (staging/intermediate/marts), Spark optimization, pipeline debugging.
 - [satan9394/dsh-kubernetes-operations](https://github.com/satan9394/dsh-kubernetes-operations) (★0) — Kubernetes operations: Helm chart scaffolding & templating, Pod Security Standards (restricted), NetworkPolicy & RBAC least-privilege, deploy troubleshooting.
+- [satan9394/dsh-reverse-engineering](https://github.com/satan9394/dsh-reverse-engineering) (★0) — Reverse engineering: binary analysis (disassembly/control-flow patterns), memory forensics, protocol RE, anti-reversing awareness, legal boundaries.
+- [satan9394/dsh-hr-legal-compliance](https://github.com/satan9394/dsh-hr-legal-compliance) (★0) — HR & legal compliance: employment contract/offer letter/NDA templates, employee vs contractor, GDPR data handling (consent/DSR/privacy by design).
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
