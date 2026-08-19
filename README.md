@@ -184,6 +184,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-runbook](https://github.com/satan9394/dsh-runbook) (★0) — Incident runbooks: severity levels, detect→triage→mitigate→recover→communicate, escalation paths, on-call handoff.
 - [satan9394/dsh-slo](https://github.com/satan9394/dsh-slo) (★0) — SLI/SLO/error budgets: measurable reliability targets, error-budget alerting, SRE practices.
 - [satan9394/dsh-quant-backtest](https://github.com/satan9394/dsh-quant-backtest) (★0) — Quant backtesting & risk metrics: avoid look-ahead/survivorship bias, transaction costs, walk-forward, Sharpe/drawdown.
+- [satan9394/dsh-api-design](https://github.com/satan9394/dsh-api-design) (★0) — API & interface design: Hyrum's Law, stable/hard-to-misuse interfaces, REST/GraphQL/module boundaries, change evaluation.
+- [satan9394/dsh-performance](https://github.com/satan9394/dsh-performance) (★0) — Performance optimization: measure-first, bottleneck localization, caching/lazy-loading, performance budgets.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
