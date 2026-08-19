@@ -202,6 +202,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-debug-recovery](https://github.com/satan9394/dsh-debug-recovery) (★0) — Debugging & error recovery: evidence-first, error classification, systematic root-cause, recovery strategies, regression prevention.
 - [satan9394/dsh-browser-testing](https://github.com/satan9394/dsh-browser-testing) (★0) — Browser testing & UI verification: verify DOM/console/network/performance in a real browser instead of guessing.
 - [satan9394/dsh-frontend-engineering](https://github.com/satan9394/dsh-frontend-engineering) (★0) — Frontend UI engineering: component design, state management, data fetching, performance & maintainability.
+- [satan9394/dsh-rag](https://github.com/satan9394/dsh-rag) (★0) — RAG retrieval-augmented generation: vector databases, embedding, document pipelines, retrieval & citation, hallucination mitigation.
+- [satan9394/dsh-llm-eval](https://github.com/satan9394/dsh-llm-eval) (★0) — LLM evaluation: faithfulness/relevance/correctness, test sets, hallucination detection, regression guarding.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
