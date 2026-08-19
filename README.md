@@ -252,6 +252,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-hr-legal-compliance](https://github.com/satan9394/dsh-hr-legal-compliance) (★0) — HR & legal compliance: employment contract/offer letter/NDA templates, employee vs contractor, GDPR data handling (consent/DSR/privacy by design).
 - [satan9394/dsh-brand-landingpage](https://github.com/satan9394/dsh-brand-landingpage) (★0) — Brand-first landing page design: brand identity interview → design system tokens → generate/feedback loop → deployment-ready HTML (responsive + perf).
 - [satan9394/dsh-framework-migration](https://github.com/satan9394/dsh-framework-migration) (★0) — Framework migration: AngularJS→Angular (hybrid/incremental), React modernization, dependency upgrade path (codemod/breaking changes), rollback-safe risk management.
+- [satan9394/dsh-plugin-eval](https://github.com/satan9394/dsh-plugin-eval) (★0) — Plugin/skill quality evaluation: three layers (static analysis/LLM judge/Monte Carlo), ten scoring dimensions, composite formula, anti-pattern penalties, actionable improvement guide.
+- [satan9394/dsh-bash-testing](https://github.com/satan9394/dsh-bash-testing) (★0) — Shell script testing with BATS: error-path & boundary tests with message assertions, fixtures & dependency stubs, CI integration, multi-shell dialect validation.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
