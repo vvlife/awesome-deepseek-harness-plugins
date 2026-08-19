@@ -194,6 +194,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-observability](https://github.com/satan9394/dsh-observability) (★0) — Observability & instrumentation: logs/metrics/traces, structured logging, distributed tracing, alert design.
 - [satan9394/dsh-tdd](https://github.com/satan9394/dsh-tdd) (★0) — Test-driven development: red-green-refactor loop, Prove-It pattern for bug fixes, tests as proof.
 - [satan9394/dsh-shipping](https://github.com/satan9394/dsh-shipping) (★0) — Shipping & launch: pre-release checklist, canary/gradual rollout, rollback-first, post-launch monitoring.
+- [satan9394/dsh-idea-refine](https://github.com/satan9394/dsh-idea-refine) (★0) — Idea refinement: structured divergent/convergent thinking, turn vague ideas into sharp actionable one-pagers.
+- [satan9394/dsh-incremental](https://github.com/satan9394/dsh-incremental) (★0) — Incremental implementation: small verifiable steps, keep the system runnable, avoid big-bang changes.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
