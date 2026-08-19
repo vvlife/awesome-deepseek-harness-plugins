@@ -182,6 +182,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-changelog](https://github.com/satan9394/dsh-changelog) (★0) — Changelog automation: Keep a Changelog + Conventional Commits + semantic versioning, generate release notes from commits/PRs.
 - [satan9394/dsh-postmortem](https://github.com/satan9394/dsh-postmortem) (★0) — Blameless incident postmortems: root-cause analysis (5 Whys), timeline, action items, organizational learning.
 - [satan9394/dsh-runbook](https://github.com/satan9394/dsh-runbook) (★0) — Incident runbooks: severity levels, detect→triage→mitigate→recover→communicate, escalation paths, on-call handoff.
+- [satan9394/dsh-slo](https://github.com/satan9394/dsh-slo) (★0) — SLI/SLO/error budgets: measurable reliability targets, error-budget alerting, SRE practices.
+- [satan9394/dsh-quant-backtest](https://github.com/satan9394/dsh-quant-backtest) (★0) — Quant backtesting & risk metrics: avoid look-ahead/survivorship bias, transaction costs, walk-forward, Sharpe/drawdown.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
