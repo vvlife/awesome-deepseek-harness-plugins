@@ -216,6 +216,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-mlops](https://github.com/satan9394/dsh-mlops) (★0) — ML pipeline workflow: data→train→evaluate→deploy→monitor, reproducible & regression-guarded MLOps.
 - [satan9394/dsh-microservices](https://github.com/satan9394/dsh-microservices) (★0) — Microservices architecture patterns: service boundaries, communication, distributed data (Saga), resilience, event-driven.
 - [satan9394/dsh-terraform](https://github.com/satan9394/dsh-terraform) (★0) — Terraform module library: module design, variable/output conventions, IaC best practices.
+- [satan9394/dsh-architecture](https://github.com/satan9394/dsh-architecture) (★0) — Architecture patterns: Clean/Hexagonal/DDD tactical patterns, dependency rules, test boundaries.
+- [satan9394/dsh-db-migration](https://github.com/satan9394/dsh-db-migration) (★0) — Database migration: up/down scripts, expand-contract, zero-downtime changes, consistency checks.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
