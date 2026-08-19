@@ -232,6 +232,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-cloud-cost-optimization](https://github.com/satan9394/dsh-cloud-cost-optimization) (★0) — Cloud cost optimization: visibility/tagging/budget alerts, right-sizing, pricing models (RI/Savings Plans/Spot), storage tiering, FinOps cadence.
 - [satan9394/dsh-vector-search](https://github.com/satan9394/dsh-vector-search) (★0) — Vector search engineering: embedding model selection, chunking strategy, index tuning (HNSW/IVF), hybrid search fusion (RRF/rerank), recall evaluation.
 - [satan9394/dsh-blockchain-web3](https://github.com/satan9394/dsh-blockchain-web3) (★0) — Blockchain & smart contract security: Solidity vulnerability prevention (reentrancy/overflow/access control), CEI pattern, DeFi protocol design, audit prep & attack-path testing.
+- [satan9394/dsh-game-development](https://github.com/satan9394/dsh-game-development) (★0) — Game development patterns: Godot 4 scenes/signals/state machines & GDScript, Unity ECS (DOTS/Jobs/Burst), performance optimization.
+- [satan9394/dsh-file-conversion](https://github.com/satan9394/dsh-file-conversion) (★0) — File format conversion: PDF/Word/HEIC/MP4/CSV/EPUB routes, local tools first (ffmpeg/LibreOffice/Calibre), free online service fallback (999 routes).
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
