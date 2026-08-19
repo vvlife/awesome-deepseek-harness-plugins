@@ -210,6 +210,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-pci-compliance](https://github.com/satan9394/dsh-pci-compliance) (★0) — PCI compliance: cardholder data protection, six-pillar security controls, scope reduction strategies.
 - [satan9394/dsh-agent-teams](https://github.com/satan9394/dsh-agent-teams) (★0) — Multi-agent team collaboration: roles, task coordination, parallel workflows, communication protocols.
 - [satan9394/dsh-parallel-dev](https://github.com/satan9394/dsh-parallel-dev) (★0) — Parallel feature development: file ownership, interface contracts first, vertical slices vs horizontal layers.
+- [satan9394/dsh-prompt-engineering](https://github.com/satan9394/dsh-prompt-engineering) (★0) — Prompt engineering patterns: CoT/ToT, dynamic few-shot, templates, production optimization & debugging.
+- [satan9394/dsh-dataset-curation](https://github.com/satan9394/dsh-dataset-curation) (★0) — Dataset curation: cleaning, quality filtering, diversity, train/val splits, annotation specs.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
