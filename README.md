@@ -222,6 +222,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-error-handling](https://github.com/satan9394/dsh-error-handling) (★0) — Error handling patterns: layered errors, typed formats, graceful degradation, observability, recovery.
 - [satan9394/dsh-sql-optimization](https://github.com/satan9394/dsh-sql-optimization) (★0) — SQL optimization patterns: EXPLAIN analysis, indexing strategy, N+1 resolution, query rewriting, slow-query debugging.
 - [satan9394/dsh-monorepo](https://github.com/satan9394/dsh-monorepo) (★0) — Monorepo management: repo structure, workspace dependency management, incremental builds & caching, CI strategy, changeset publishing.
+- [satan9394/dsh-systems-programming](https://github.com/satan9394/dsh-systems-programming) (★0) — Systems programming: memory safety patterns (RAII/ownership/smart pointers), concurrency & async patterns, memory/race debugging tools (ASan/Valgrind/Miri/TSan).
+- [satan9394/dsh-startup-business-analyst](https://github.com/satan9394/dsh-startup-business-analyst) (★0) — Startup business analysis: TAM/SAM/SOM market sizing, competitive landscape (Five Forces/positioning), financial modeling (runway/cash flow), startup metrics (north star/LTV-CAC).
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
