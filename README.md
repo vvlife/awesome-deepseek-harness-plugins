@@ -228,6 +228,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-payment-processing](https://github.com/satan9394/dsh-payment-processing) (★0) — Payment processing & subscription billing: billing lifecycle, dunning/proration/tax, Checkout vs PaymentIntent vs SetupIntent, webhook idempotency, PCI compliance, test cards.
 - [satan9394/dsh-event-driven-architecture](https://github.com/satan9394/dsh-event-driven-architecture) (★0) — Event-driven architecture: CQRS read/write separation, event sourcing & event store design, projections, Saga distributed transactions with compensation.
 - [satan9394/dsh-service-mesh](https://github.com/satan9394/dsh-service-mesh) (★0) — Service mesh: Istio/Linkerd traffic management, mTLS zero-trust, certificate hierarchy & rotation, mesh observability (RED/tracing/access logs).
+- [satan9394/dsh-llm-finetuning](https://github.com/satan9394/dsh-llm-finetuning) (★0) — LLM fine-tuning router & recipes: off-ramps (RAG/prompting), method selection (SFT/DPO/ORPO/KTO/GRPO+RLVR/CPT), LoRA/QLoRA, eval-first, quantized export.
+- [satan9394/dsh-cloud-cost-optimization](https://github.com/satan9394/dsh-cloud-cost-optimization) (★0) — Cloud cost optimization: visibility/tagging/budget alerts, right-sizing, pricing models (RI/Savings Plans/Spot), storage tiering, FinOps cadence.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
