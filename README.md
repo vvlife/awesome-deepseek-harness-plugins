@@ -304,6 +304,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-canvas-design](https://github.com/satan9394/dsh-canvas-design) (★0) — Canvas visual design: create a design philosophy (form/space/color/composition) then express it as poster/art (90% visual + 10% text), original work only.
 - [satan9394/dsh-commit-message](https://github.com/satan9394/dsh-commit-message) (★0) — Git commit message conventions: Conventional Commits (type(scope): subject), body/footers, BREAKING CHANGE, issue refs, atomic commits, semver linkage.
 - [satan9394/dsh-web-artifacts](https://github.com/satan9394/dsh-web-artifacts) (★0) — Interactive web artifact building: React 18+TS+Tailwind+shadcn/ui scaffold → develop → bundle single HTML, anti-AI-slop design guidelines, responsive & accessible.
+- [satan9394/dsh-pptx-engineering](https://github.com/satan9394/dsh-pptx-engineering) (★0) — PPTX engineering: pptxgenjs gotchas (layout/hex colors/shadow/lists/native charts), unzip-edit-zip editing, markitdown/thumbnail reading, schema validation & render checks.
+- [satan9394/dsh-css-art-styles](https://github.com/satan9394/dsh-css-art-styles) (★0) — CSS art style recipes: reusable visual systems (liquid-glass variants, cinematic space) with design tokens, utility CSS, entrance animations, layout skeletons.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
