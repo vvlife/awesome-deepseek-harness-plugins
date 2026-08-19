@@ -154,6 +154,29 @@ Everything below is community-built and sits on top of these seams.
 - [omdsh-dev/dsh-gomoku](https://github.com/omdsh-dev/dsh-gomoku) (★5) — Gomoku game plugin.
 - [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) (★11) — Continual self-evolution: versioned, auditable, rollback-safe harness state (prompt notes, memories, skills, subagent specs) refined from session trajectories.
 
+**DSH skill bundles (satan9394) — 20 Chinese skill packs**：苏格拉底追问 / 热点采集 / 前端设计 / 技能创作 / 合同审查 / 会议纪要 / 求职 / 去AI痕迹 / 工程方法论 / Karpathy 方法论 / PPT / 上下文工程 / 怀疑驱动开发 / 领域建模 / 合并冲突 / 安全加固 / 代码评审 / 会话交接 / 懒人开发 / 学术研究。全部为 skill 型插件（`skills/<name>/SKILL.md` 经 `ctx.skills` 注册），每个都是独立 GitHub 仓库并带 `dsh-plugin` topic：
+
+- [satan9394/dsh-grill-me](https://github.com/satan9394/dsh-grill-me) (★0) — Socratic grill-me skill: interview until shared understanding via structured questions.
+- [satan9394/dsh-hot-trends](https://github.com/satan9394/dsh-hot-trends) (★0) — China real-time hot lists tool+skill (Weibo/Baidu/Bilibili/Zhihu/App Store/QQ Music), no API key.
+- [satan9394/dsh-frontend-design](https://github.com/satan9394/dsh-frontend-design) (★0) — Frontend design skill (adapted from Anthropic frontend-design, Apache-2.0).
+- [satan9394/dsh-skill-creator](https://github.com/satan9394/dsh-skill-creator) (★1) — Skill creator: author SKILL.md per agentskills.io (adapted from Anthropic skill-creator, Apache-2.0).
+- [satan9394/dsh-contract-review](https://github.com/satan9394/dsh-contract-review) (★0) — Chinese contract risk review with graded reports.
+- [satan9394/dsh-meeting-minutes](https://github.com/satan9394/dsh-meeting-minutes) (★0) — Meeting minutes from transcripts: decisions, action items, owners, deadlines.
+- [satan9394/dsh-career-ops](https://github.com/satan9394/dsh-career-ops) (★0) — Job-search command center: JD A-F scoring, resume optimization, interview prep.
+- [satan9394/dsh-humanizer-zh](https://github.com/satan9394/dsh-humanizer-zh) (★0) — Remove AI-sounding patterns from Chinese text.
+- [satan9394/dsh-superpowers-essentials](https://github.com/satan9394/dsh-superpowers-essentials) (★0) — Engineering methodology: classify & approve before coding (Spike/Bounded/Architectural) + systematic debugging.
+- [satan9394/dsh-karpathy-methodology](https://github.com/satan9394/dsh-karpathy-methodology) (★0) — Karpathy coding methodology: think first, simplicity, surgical changes, goal-driven verification.
+- [satan9394/dsh-ppt-creator](https://github.com/satan9394/dsh-ppt-creator) (★0) — Chinese deck generator: outline → visual design → HTML/PPTX output.
+- [satan9394/dsh-context-engineering](https://github.com/satan9394/dsh-context-engineering) (★0) — Context engineering: five-level context hierarchy + rules-file discipline.
+- [satan9394/dsh-doubt-driven-dev](https://github.com/satan9394/dsh-doubt-driven-dev) (★0) — Doubt-driven development: adversarial fresh-context review before non-trivial decisions land.
+- [satan9394/dsh-domain-modeling](https://github.com/satan9394/dsh-domain-modeling) (★0) — Domain modeling: CONTEXT.md glossary + ADR decision records.
+- [satan9394/dsh-merge-conflicts](https://github.com/satan9394/dsh-merge-conflicts) (★0) — Resolve git merge/rebase conflicts in five steps.
+- [satan9394/dsh-security-hardening](https://github.com/satan9394/dsh-security-hardening) (★0) — Security hardening: STRIDE threat modeling + three-tier boundary system.
+- [satan9394/dsh-code-review](https://github.com/satan9394/dsh-code-review) (★0) — Five-axis code review: correctness/readability/architecture/security/performance.
+- [satan9394/dsh-handoff](https://github.com/satan9394/dsh-handoff) (★0) — Session handoff document: compact current conversation for the next session/agent.
+- [satan9394/dsh-ponytail-dev](https://github.com/satan9394/dsh-ponytail-dev) (★0) — Lazy senior dev philosophy: YAGNI ladder + root-cause fixes.
+- [satan9394/dsh-academic-research](https://github.com/satan9394/dsh-academic-research) (★0) — Academic research pipeline: question → literature → verification → synthesis → paper → review.
+
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
 ### Integrations & Bridges
