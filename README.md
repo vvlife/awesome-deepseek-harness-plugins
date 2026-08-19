@@ -214,6 +214,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-dataset-curation](https://github.com/satan9394/dsh-dataset-curation) (★0) — Dataset curation: cleaning, quality filtering, diversity, train/val splits, annotation specs.
 - [satan9394/dsh-data-storytelling](https://github.com/satan9394/dsh-data-storytelling) (★0) — Data storytelling: SCQA narrative structure, chart selection, title-as-conclusion, credibility.
 - [satan9394/dsh-mlops](https://github.com/satan9394/dsh-mlops) (★0) — ML pipeline workflow: data→train→evaluate→deploy→monitor, reproducible & regression-guarded MLOps.
+- [satan9394/dsh-microservices](https://github.com/satan9394/dsh-microservices) (★0) — Microservices architecture patterns: service boundaries, communication, distributed data (Saga), resilience, event-driven.
+- [satan9394/dsh-terraform](https://github.com/satan9394/dsh-terraform) (★0) — Terraform module library: module design, variable/output conventions, IaC best practices.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
