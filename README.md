@@ -220,6 +220,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-db-migration](https://github.com/satan9394/dsh-db-migration) (★0) — Database migration: up/down scripts, expand-contract, zero-downtime changes, consistency checks.
 - [satan9394/dsh-auth](https://github.com/satan9394/dsh-auth) (★0) — Auth & authorization implementation: JWT/OAuth2/session, RBAC/ABAC, security checklist.
 - [satan9394/dsh-error-handling](https://github.com/satan9394/dsh-error-handling) (★0) — Error handling patterns: layered errors, typed formats, graceful degradation, observability, recovery.
+- [satan9394/dsh-sql-optimization](https://github.com/satan9394/dsh-sql-optimization) (★0) — SQL optimization patterns: EXPLAIN analysis, indexing strategy, N+1 resolution, query rewriting, slow-query debugging.
+- [satan9394/dsh-monorepo](https://github.com/satan9394/dsh-monorepo) (★0) — Monorepo management: repo structure, workspace dependency management, incremental builds & caching, CI strategy, changeset publishing.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
