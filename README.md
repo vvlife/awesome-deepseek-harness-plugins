@@ -190,6 +190,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-cicd](https://github.com/satan9394/dsh-cicd) (★0) — CI/CD automation: quality gates, shift-left, deployment pipelines & strategies, debugging CI failures.
 - [satan9394/dsh-spec-driven](https://github.com/satan9394/dsh-spec-driven) (★0) — Spec-driven development: write a structured spec before coding, gated four-phase workflow (spec → approval → implement → verify).
 - [satan9394/dsh-planning](https://github.com/satan9394/dsh-planning) (★0) — Planning & task breakdown: verifiable tasks, dependency ordering, estimation, milestones, progress tracking.
+- [satan9394/dsh-deprecation](https://github.com/satan9394/dsh-deprecation) (★0) — Deprecation & migration: code is a liability, safe removal of old systems/APIs, migration lifecycle planning.
+- [satan9394/dsh-observability](https://github.com/satan9394/dsh-observability) (★0) — Observability & instrumentation: logs/metrics/traces, structured logging, distributed tracing, alert design.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
