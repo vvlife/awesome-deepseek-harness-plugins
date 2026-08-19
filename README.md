@@ -234,6 +234,8 @@ Everything below is community-built and sits on top of these seams.
 - [satan9394/dsh-blockchain-web3](https://github.com/satan9394/dsh-blockchain-web3) (★0) — Blockchain & smart contract security: Solidity vulnerability prevention (reentrancy/overflow/access control), CEI pattern, DeFi protocol design, audit prep & attack-path testing.
 - [satan9394/dsh-game-development](https://github.com/satan9394/dsh-game-development) (★0) — Game development patterns: Godot 4 scenes/signals/state machines & GDScript, Unity ECS (DOTS/Jobs/Burst), performance optimization.
 - [satan9394/dsh-file-conversion](https://github.com/satan9394/dsh-file-conversion) (★0) — File format conversion: PDF/Word/HEIC/MP4/CSV/EPUB routes, local tools first (ffmpeg/LibreOffice/Calibre), free online service fallback (999 routes).
+- [satan9394/dsh-signed-audit-trails](https://github.com/satan9394/dsh-signed-audit-trails) (★0) — Signed audit trails for agent tool calls: Cedar policy gating (default-deny), Ed25519 hash-chained receipts, offline verification, CI/CD & compliance (EU AI Act/SLSA).
+- [satan9394/dsh-multi-cloud](https://github.com/satan9394/dsh-multi-cloud) (★0) — Multi-cloud architecture: cross-provider decision framework, service comparison, four patterns (DR/best-of-breed/geo/abstraction), vendor lock-in & data gravity.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
