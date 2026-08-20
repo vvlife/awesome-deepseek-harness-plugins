@@ -380,6 +380,7 @@ Everything below is community-built and sits on top of these seams.
 **中文**：侧边栏工作台、`oh-my-dsh` 这类"插件库"、插件脚手架与注册表等生态基础设施。
 
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) (★66) — Full workbench sidebar with third-party tab registration: file render/edit, terminal, Git, subagent.
+- [sandbaseai/dsh-plugin-store](https://github.com/sandbaseai/dsh-plugin-store) (★1) — Native Store for DSH Settings: live catalog search, tag filters, ranking, runtime-verified installation, and installed-plugin inventory.
 - [LaplaceYoung/oh-my-dsh](https://github.com/LaplaceYoung/oh-my-dsh) (★12) — Plugin ecosystem: 700+ plugins wired only through extension seams, no agent-loop changes.
 - [kingjly/dsh-plugin-builder](https://github.com/kingjly/dsh-plugin-builder) (★1) — Plugin builder scaffolding.
 - [vlln/plugin-registry](https://github.com/vlln/plugin-registry) (★6) — Plugin registry.
