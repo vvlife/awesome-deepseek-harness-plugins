@@ -153,6 +153,8 @@ Everything below is community-built and sits on top of these seams.
 - [vibeinging/dsh-work](https://github.com/vibeinging/dsh-work) (★2) — Work plugin.
 - [omdsh-dev/dsh-gomoku](https://github.com/omdsh-dev/dsh-gomoku) (★5) — Gomoku game plugin.
 - [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) (★11) — Continual self-evolution: versioned, auditable, rollback-safe harness state (prompt notes, memories, skills, subagent specs) refined from session trajectories.
+- [bpc-oss/dsh-routed-subagent](https://github.com/bpc-oss/dsh-routed-subagent) (⭐0) — Run a one-shot subagent fully mounted on any agent preset from any session, with per-call model/provider override, model pre-check, and external CLI engines (codex / claude / codebuddy) with background jobs, live progress, kill, and continuable sessions.
+- [bpc-oss/dsh-fork-to-preset](https://github.com/bpc-oss/dsh-fork-to-preset) (⭐0) — Fork any session into a different agent preset from the conversation header: a preset picker creates a new child session mounted on the chosen preset, inheriting the source session's completed turns.
 
 **DSH skill bundles (satan9394) — 20 Chinese skill packs**：苏格拉底追问 / 热点采集 / 前端设计 / 技能创作 / 合同审查 / 会议纪要 / 求职 / 去AI痕迹 / 工程方法论 / Karpathy 方法论 / PPT / 上下文工程 / 怀疑驱动开发 / 领域建模 / 合并冲突 / 安全加固 / 代码评审 / 会话交接 / 懒人开发 / 学术研究。全部为 skill 型插件（`skills/<name>/SKILL.md` 经 `ctx.skills` 注册），每个都是独立 GitHub 仓库并带 `dsh-plugin` topic：
 
