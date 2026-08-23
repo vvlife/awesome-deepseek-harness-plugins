@@ -140,6 +140,7 @@ Everything below is community-built and sits on top of these seams.
 - [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) (★1) — Mnemonics plugin.
 - [ArtificialNotImbecile/dsh-context-taxonomy](https://github.com/ArtificialNotImbecile/dsh-context-taxonomy) — Context taxonomy.
 - [delef/dsh-free-web-search](https://github.com/delef/dsh-free-web-search) (★0) — Free web search with 10 engines (Bing/DuckDuckGo/SearXNG/AnySearch free + Exa/Tavily/Keenable/Perplexity/DeepSeek paid), automatic fallback chain, time-filtered advanced search, platform search (GitHub/Reddit), web page fetching, LRU caching, and a settings UI. No API keys required.
+- [chidaic/dsh-light-memory](https://github.com/chidaic/dsh-light-memory) (★1) — Lightweight memory plugin: four Markdown files (USER/PROJECT/WORKLOG/CONVENTION) with append/distill actions, zero external parts, prefix-cache-friendly dual-layer injection; `dsh plugin --profile web add dsh-light-memory`.
 
 ### Agent orchestration & Workflow
 
