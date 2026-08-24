@@ -384,6 +384,7 @@ Everything below is community-built and sits on top of these seams.
 - [SwainGao/dsh-plugin-ai-bridge](https://github.com/SwainGao/dsh-plugin-ai-bridge) (★1) — Bridge to external AI models (Codex / Claude / GPT / OpenAI-compatible relays) for read-only second-opinion code review, adversarial review, task delegation with resume threads, and non-blocking background jobs. `dsh plugin add dsh-plugin-ai-bridge@0.1.3`.
 
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) (★54) — Import Claude Code / Codex / ChatGPT / Cursor chat histories as resumable DeepSeek Harness sessions.
+- [zyfgood/dsh-feishu-bot](https://github.com/zyfgood/dsh-feishu-bot) — Bridge a Feishu/Lark bot into DSH over the official WebSocket long connection (no public callback URL): echo/llm/agent reply modes with live streaming, mid-task steer questions, /attach GUI-session takeover, and feishu_* outbound tools. 飞书机器人接入：长连接免公网回调、agent 流式回复、任务执行中提问、/attach 接管 GUI 会话。
 
 ### Sidebar, Workspace & Ecosystem
 
