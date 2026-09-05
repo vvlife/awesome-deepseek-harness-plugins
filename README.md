@@ -95,6 +95,8 @@ Everything below is community-built and sits on top of these seams.
 - [omdsh-dev/dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) (★9) — Select text → annotate → send as a message; bubble-hidden annotation blocks.
 - [Anionex/dsh-computer-use](https://github.com/Anionex/dsh-computer-use) (★6) — Computer-use plugin for DSH.
 
+- [weibaohui/dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) (★0) — Customizes the native DSH settings window: preset/custom sizes, fullscreen, background transparency, and theme/solid-color/image backgrounds, with a floating-ball quick access; saved in the local browser.
+
 ### Terminal & Desktop
 
 **中文**：把 DSH 从网页端带到终端、桌面，或做成独立 App / 启动器。
