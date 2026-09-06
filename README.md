@@ -96,6 +96,7 @@ Everything below is community-built and sits on top of these seams.
 - [Anionex/dsh-computer-use](https://github.com/Anionex/dsh-computer-use) (★6) — Computer-use plugin for DSH.
 
 - [weibaohui/dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) (★0) — Customizes the native DSH settings window: preset/custom sizes, fullscreen, background transparency, and theme/solid-color/image backgrounds, with a floating-ball quick access; saved in the local browser.
+- [weibaohui/user-management](https://github.com/weibaohui/user-management) (★0) — Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs.
 
 ### Terminal & Desktop
 
