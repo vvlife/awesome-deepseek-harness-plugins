@@ -170,6 +170,7 @@ Everything below is community-built and sits on top of these seams.
 - [weibaohui/hermes-loop](https://github.com/weibaohui/hermes-loop) (★0) — Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore).
 - [weibaohui/dsh-continue](https://github.com/weibaohui/dsh-continue) (★0) — Auto-resume for interrupted agent sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor.
 - [weibaohui/dsh-tasks](https://github.com/weibaohui/dsh-tasks) (★0) — Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.
+- [weibaohui/experts-management](https://github.com/weibaohui/experts-management) (★0) — Expert manager: manage ntd-format experts and expert teams (plugin.json + Agent MD + skill sets), browse and install from a built-in market of 50+ experts, and run tasks in an expert persona via `/expert-<name>` without consuming model directory tokens.
 
 ### Integrations & Bridges
 
