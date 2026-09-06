@@ -95,6 +95,8 @@ Everything below is community-built and sits on top of these seams.
 - [omdsh-dev/dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) (★9) — Select text → annotate → send as a message; bubble-hidden annotation blocks.
 - [Anionex/dsh-computer-use](https://github.com/Anionex/dsh-computer-use) (★6) — Computer-use plugin for DSH.
 
+- [weibaohui/dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) (★0) — Customizes the native DSH settings window: preset/custom sizes, fullscreen, background transparency, and theme/solid-color/image backgrounds, with a floating-ball quick access; saved in the local browser.
+
 ### Terminal & Desktop
 
 **中文**：把 DSH 从网页端带到终端、桌面，或做成独立 App / 启动器。
@@ -165,6 +167,7 @@ Everything below is community-built and sits on top of these seams.
 
 - [nortejiang-tech/dsh-req-miner](https://github.com/nortejiang-tech/dsh-req-miner) (★0) — Requirements-mining sidebar plugin: per-session floating interview window driven by a continuable subagent (decision tree + frontier questions), reads the bound session's workspace and recent context, one-click return of the summarized requirement prompt to the composer. Install: `github:nortejiang-tech/dsh-req-miner`.
 
+- [weibaohui/hermes-loop](https://github.com/weibaohui/hermes-loop) (★0) — Automatic post-conversation retrospective that distills useful experience into reusable skills for the skill library, with approval mode and skill-library governance (archive/restore).
 - [weibaohui/dsh-continue](https://github.com/weibaohui/dsh-continue) (★0) — Auto-resume for interrupted agent sessions: rules route by failure type (rate limit, quota, auth, context overflow, crashed orphan) into backoff retry, model switch, resume-after-compaction, or stop-loss notification, with a visual rule editor.
 
 ### Integrations & Bridges
@@ -216,6 +219,8 @@ Everything below is community-built and sits on top of these seams.
 - [unknowbug/RE-Framework](https://github.com/unknowbug/RE-Framework) (★5) / [unknowbug/anchorlaw](https://github.com/unknowbug/anchorlaw) (★4) — Frameworks.
 - [hxs996-beep/deepAct](https://github.com/hxs996-beep/deepAct) (★7) — deepAct.
 - [aga-j/dsh-mini-games](https://github.com/aga-j/dsh-mini-games) — Pure-frontend mini-game collection in the web details panel: guess-the-number, 2048, minesweeper (`dsh plugin --profile web add dsh-mini-games`).
+
+- [weibaohui/dsh-xiuxian](https://github.com/weibaohui/dsh-xiuxian) (★0) — Xianxia desktop pets tied to live agent sessions: pixel-style companions appear as subagents spawn (up to 3 on screen), with storage-bag collection, a right-click artifact menu, and Codex pet-format export.
 
 ## Hands-on Notes
 
