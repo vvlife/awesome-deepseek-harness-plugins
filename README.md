@@ -173,6 +173,7 @@ Everything below is community-built and sits on top of these seams.
 - [weibaohui/dsh-tasks](https://github.com/weibaohui/dsh-tasks) (★0) — Scheduled tasks: run a prompt on cron schedules, each run opens a new agent session to do the work, with workspace binding, manual run, session auto-naming, and a fullscreen task management page.
 - [weibaohui/experts-management](https://github.com/weibaohui/experts-management) (★0) — Expert manager: manage ntd-format experts and expert teams (plugin.json + Agent MD + skill sets), browse and install from a built-in market of 50+ experts, and run tasks in an expert persona via `/expert-<name>` without consuming model directory tokens.
 - [weibaohui/context-razor](https://github.com/weibaohui/context-razor) (★0) — Context trimmer: lists the current session's context entries with role, preview and ≈token estimate (cl100k), highlights over-threshold items, and removes selected entries exactly without LLM summarization.
+- [zuoyunlai/lunheng-article-pipeline-dsh](https://github.com/zuoyunlai/lunheng-article-pipeline-dsh) (★4) — Long-form writing pipeline skill bundle: 9 independent roles T1-T9 across 6 phases — parallel literature/data/case retrieval, triangular evidence verification, a 23-check M-gate, a G0-G14 audit, peer-review scoring with journal matching, 4 human checkpoints — shipping role cards, templates and 11 zero-dependency verification scripts. Install: `dsh plugin add lunheng-article-pipeline`.
 
 ### Integrations & Bridges
 
