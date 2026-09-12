@@ -200,6 +200,7 @@ Everything below is community-built and sits on top of these seams.
 
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) (★54) — Import Claude Code / Codex / ChatGPT / Cursor chat histories as resumable DeepSeek Harness sessions.
 - [zyfgood/dsh-feishu-bot](https://github.com/zyfgood/dsh-feishu-bot) — Bridge a Feishu/Lark bot into DSH over the official WebSocket long connection (no public callback URL): echo/llm/agent reply modes with live streaming, mid-task steer questions, /attach GUI-session takeover, and feishu_* outbound tools. 飞书机器人接入：长连接免公网回调、agent 流式回复、任务执行中提问、/attach 接管 GUI 会话。
+- [weibaohui/dsh-git-server](https://github.com/weibaohui/dsh-git-server) (★1) — Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port — HTTP clone/push, web UI, issues/PRs/wiki — reusing user-management credentials, start/stop from the settings page.
 
 ### Sidebar, Workspace & Ecosystem
 
