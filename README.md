@@ -145,6 +145,7 @@ Everything below is community-built and sits on top of these seams.
 - [ArtificialNotImbecile/dsh-context-taxonomy](https://github.com/ArtificialNotImbecile/dsh-context-taxonomy) — Context taxonomy.
 - [delef/dsh-free-web-search](https://github.com/delef/dsh-free-web-search) (★0) — Free web search with 10 engines (Bing/DuckDuckGo/SearXNG/AnySearch free + Exa/Tavily/Keenable/Perplexity/DeepSeek paid), automatic fallback chain, time-filtered advanced search, platform search (GitHub/Reddit), web page fetching, LRU caching, and a settings UI. No API keys required.
 - [chidaic/dsh-light-memory](https://github.com/chidaic/dsh-light-memory) (★1) — Lightweight memory plugin: four Markdown files (USER/PROJECT/WORKLOG/CONVENTION) with append/distill actions, zero external parts, prefix-cache-friendly dual-layer injection; `dsh plugin --profile web add dsh-light-memory`.
+- [weibaohui/dsh-file-share](https://github.com/weibaohui/dsh-file-share) (★1) — Session workspace file manager: adds a "Files" tab to the conversation area to browse the current session workspace directory tree and manage it in place (upload, download, mkdir, rename, delete, search), with files mentionable into the composer for the agent to process.
 
 ### Agent orchestration & Workflow
 
