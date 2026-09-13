@@ -241,6 +241,7 @@ Everything below is community-built and sits on top of these seams.
 high-star plugins — install / use / gotchas. Star counts are from the night of
 2026-08-13. Entries under `dsh-external/*` are private repos and need read
 access.
+- [weibaohui/dsh-code-poem](https://github.com/weibaohui/dsh-code-poem) (★0) — Code poetry: surfaces one of 4,598 classical Chinese poems, idioms or allusions as a reading card at session events (after each turn, or when a tool errors), with favorites and expandable annotations and backstories, styled as an ink-wash paper card.
 
 ### dsh-web-ui — Web UI 全家桶（★311）
 
