@@ -234,7 +234,6 @@ Everything below is community-built and sits on top of these seams.
 - [hxs996-beep/deepAct](https://github.com/hxs996-beep/deepAct) (★7) — deepAct.
 - [aga-j/dsh-mini-games](https://github.com/aga-j/dsh-mini-games) — Pure-frontend mini-game collection in the web details panel: guess-the-number, 2048, minesweeper (`dsh plugin --profile web add dsh-mini-games`).
 
-- [weibaohui/dsh-xiuxian](https://github.com/weibaohui/dsh-xiuxian) (★0) — Xianxia desktop pets tied to live agent sessions: pixel-style companions appear as subagents spawn (up to 3 on screen), with storage-bag collection, a right-click artifact menu, and Codex pet-format export.
 
 ## Hands-on Notes
 
