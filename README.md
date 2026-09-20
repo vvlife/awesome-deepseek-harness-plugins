@@ -148,6 +148,8 @@ Everything below is community-built and sits on top of these seams.
 - [chidaic/dsh-light-memory](https://github.com/chidaic/dsh-light-memory) (★1) — Lightweight memory plugin: four Markdown files (USER/PROJECT/WORKLOG/CONVENTION) with append/distill actions, zero external parts, prefix-cache-friendly dual-layer injection; `dsh plugin --profile web add dsh-light-memory`.
 - [weibaohui/dsh-file-share](https://github.com/weibaohui/dsh-file-share) (★1) — Session workspace file manager: adds a "Files" tab to the conversation area to browse the current session workspace directory tree and manage it in place (upload, download, mkdir, rename, delete, search), with files mentionable into the composer for the agent to process.
 
+- [PerryLink/dsh-library](https://github.com/PerryLink/dsh-library) (★10) — Local document knowledge base: add, list and search a workspace library with hybrid semantic and keyword retrieval, diversity re-ranking and citation-aware injection over a local SQLite index, with no model downloads.
+
 ### Agent orchestration & Workflow
 
 **中文**：多 Agent 团队、可治理的工作流、会话蒸馏等"把一次性调度变成工程资产"的编排类插件。
@@ -178,6 +180,8 @@ Everything below is community-built and sits on top of these seams.
 - [zuoyunlai/lunheng-article-pipeline-dsh](https://github.com/zuoyunlai/lunheng-article-pipeline-dsh) (★4) — Long-form writing pipeline skill bundle: 9 independent roles T1-T9 across 6 phases — parallel literature/data/case retrieval, triangular evidence verification, a 23-check M-gate, a G0-G14 audit, peer-review scoring with journal matching, 4 human checkpoints — shipping role cards, templates and 11 zero-dependency verification scripts. Install: `dsh plugin add lunheng-article-pipeline`.
 - [weibaohui/dsh-process](https://github.com/weibaohui/dsh-process) (★1) — Process management: brings ntd-style processes (multi-stage, multi-step agent workflow templates) into the dsh web UI — browse, edit, validate, import/export and AI-generate processes; the built-in library is read-only while the personal library is writable with live file sync, and agents read the library through process_* tools and advance work stage by stage.
 
+- [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) (★187) — Second-model AI auto-review on the approval chain: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default and fully auditable from the session log.
+
 ### Integrations & Bridges
 
 **中文**：把 DSH 接到 VS Code、桌面通知、或其它 Agent（Claude / Codex / Pi / OpenCode）的桥接类插件。
@@ -207,6 +211,11 @@ Everything below is community-built and sits on top of these seams.
 - [weibaohui/dsh-git-server](https://github.com/weibaohui/dsh-git-server) (★1) — Git server: embeds ts-gogs (a TypeScript reimplementation of Gogs) and serves a full Git service on its own port — HTTP clone/push, web UI, issues/PRs/wiki — reusing user-management credentials, start/stop from the settings page.
 - [weibaohui/dsh-sync](https://github.com/weibaohui/dsh-sync) (★3) — Multi-machine sync: keeps multiple dsh replicas consistent through one private GitCode repository — skills, sessions, settings and plugin manifests each with an independent switch; changes go through branch, PR and merge, remote-only additions are pulled back before every push so nothing is deleted, and an AI smart-align step semantically merges files both sides changed (plus one-click conflict resolution); private repos enforced, pull never overwrites local edits.
 
+- [PerryLink/dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) (★0) — Read-only MCP server over the DSH plugin-certification registry: query a plugin certification grade, its snapshot and the five-dimension evidence behind it.
+- [PerryLink/dsh-github](https://github.com/PerryLink/dsh-github) (★15) — Official-grade GitHub integration: a composite action.yml, a PR review bot with idempotent inline comments and a status-check gate, plus PR, issue, repository and file tools with every write gated by human approval.
+- [PerryLink/dsh-mcp-panel](https://github.com/PerryLink/dsh-mcp-panel) (★61) — Management console for the official DSH MCP client: a /mcp command with health diagnostics, a Settings tab with approval-gated server CRUD and automatic backups, and a trial console over the official tool pipeline.
+- [PerryLink/dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) (★0) — TickTick (Dida365) task bridge: a session-header task panel with filtering, search and drag reordering, eleven curated agent tools and a settings card, over the official TickTick MCP endpoint.
+
 ### Sidebar, Workspace & Ecosystem
 
 **中文**：侧边栏工作台、`oh-my-dsh` 这类"插件库"、插件脚手架与注册表等生态基础设施。
@@ -225,6 +234,9 @@ Everything below is community-built and sits on top of these seams.
 - [weibaohui/dsh-smart-title](https://github.com/weibaohui/dsh-smart-title) (★0) — Smart session titles for DSH: after each conversation turn an independent auxiliary LLM call summarizes the full user+assistant transcript into a title that follows the session's real topic instead of echoing the first message; the first message is titled instantly, failed built-in titles auto-retry on later turns, manual renames are never overwritten, and subagent/fork sessions are skipped.
 - [weibaohui/dsh-fde-tools](https://github.com/weibaohui/dsh-fde-tools) (★0) — FDE toolbox bundle: installing this one plugin pulls in a curated set of common dsh plugins (git server, WebDAV mount, knowledge base, scheduled tasks, auto-resume, UI tweaks, auto-retrospection, file manager, smart titles, task board, plugin market, context trimmer, IM bridge, sidebar enhancements), with a panel showing install status and one-click gap-filling.
 - [weibaohui/dsh-kb](https://github.com/weibaohui/dsh-kb) (★1) — Team knowledge base for offline knowledge sharing (FDE box scenario): browse, full-text search and refinement entry points; raw material is queued automatically and distilled into wiki pages by a serial bot session (Karpathy LLM Wiki pattern: immutable raw, two-step refinement, log stream, monthly lint).
+
+- [PerryLink/dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) (★0) — Zero-dependency detector for DSH plugins: package-structure checks, cordis contract scanning, a keyless headless sandbox smoke run and ecosystem-listing verification in one pass.
+- [PerryLink/dsh-plugin-upgrade](https://github.com/PerryLink/dsh-plugin-upgrade) (★0) — Upgrade skill for DSH plugin authors: one package carries one corridor index that reads the caller peer range and routes it to the matching closed corridor card, plus a zero-dependency seam scanner.
 
 ### Fun & Misc
 
