@@ -210,6 +210,7 @@ Everything below is community-built and sits on top of these seams.
 - [PerryLink/dsh-team-rooms](https://github.com/PerryLink/dsh-team-rooms) (★1) — Persistent shared rooms across independent sessions: a message bus, a shared task board and a timeline.
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) (★112) — Declarative ordered allow/deny/ask rules matching tool names, arguments, workspace paths and network targets.
 - [PerryLink/dsh-defend](https://github.com/PerryLink/dsh-defend) (★16) — Prompt-injection, jailbreak and secret-leak defense with allow/ask/block interception and sanitized audit events.
+- [PerryLink/dsh-laya](https://github.com/PerryLink/dsh-laya) (★1) — Laya typed decisions (`noul` yes/no, `choice`, `score`) as a first-class Cordis service plus the model-visible `laya_ask` and `laya_plan` tools; the plugin installs and downloads nothing and talks to a `laya-mcp serve` sidecar you start yourself.
 
 ### Integrations & Bridges
 
