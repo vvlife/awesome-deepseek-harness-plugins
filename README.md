@@ -159,6 +159,8 @@ Everything below is community-built and sits on top of these seams.
 
 - [PerryLink/dsh-library](https://github.com/PerryLink/dsh-library) (★10) — Local document knowledge base: add, list and search a workspace library with hybrid semantic and keyword retrieval, diversity re-ranking and citation-aware injection over a local SQLite index, with no model downloads.
 
+- [Iambatman1928/dsh-lawkb-ui](https://github.com/Iambatman1928/dsh-lawkb-ui) (★0) — Legal knowledge-base workbench: hybrid keyword/statistical/vector retrieval over local statute .doc/.docx corpora, faceted filtering, charge-name and civil-cause trees, a document editor, and AI tools (citation check, contract review, analysis, drafting).
+
 - [PerryLink/dsh-lsp-actions](https://github.com/PerryLink/dsh-lsp-actions) (★20) — LSP action surface over real language servers: diagnostics, formatting, completion, code actions, symbols and rename.
 - [PerryLink/dsh-translate](https://github.com/PerryLink/dsh-translate) (★8) — Vendor parameter translation across eleven vendors plus deterministic repair of broken JSON tool output.
 - [PerryLink/dsh-mask](https://github.com/PerryLink/dsh-mask) (★8) — PII masking at the model boundary: names, phones, emails, cards and keys become placeholders, restored only in the display layer.
