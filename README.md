@@ -99,6 +99,8 @@ Everything below is community-built and sits on top of these seams.
 - [weibaohui/user-management](https://github.com/weibaohui/user-management) (★0) — Login gate for the dsh web UI: unauthenticated visitors get a login/register page and the first registrant becomes admin; includes user and role management plus login and access audit logs.
 - [Iambatman1928/dsh-xingye](https://github.com/Iambatman1928/dsh-xingye) (★0) — Turns a DeepSeek Harness session into a local chat agent: characters and personas, several archive threads per character, an undoable/rewindable local transcript, and an event book.
 
+- [Iambatman1928/dsh-lawagent-ui](https://github.com/Iambatman1928/dsh-lawagent-ui) (★0) — Legal training workbench: three-pane academic UI that reads the "Minglü" (lawagent preset) learning profile (case dossiers, flashcards, wrong-answer book, notes) and sends instructions into a session with one click.
+
 - [PerryLink/dsh-composer-history](https://github.com/PerryLink/dsh-composer-history) (★15) — Terminal-style input history for the web composer: edge-first arrows with exact draft and caret restore, Ctrl+R reverse search and workspace recall.
 - [PerryLink/dsh-output-styles](https://github.com/PerryLink/dsh-output-styles) (★7) — Runtime-switchable model output styles with per-session persistence, a style library and system-prompt injection.
 - [PerryLink/dsh-session-pin](https://github.com/PerryLink/dsh-session-pin) (★9) — Pin sessions and workspaces to the top of the sidebar with per-pin row colors.
