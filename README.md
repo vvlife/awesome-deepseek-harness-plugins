@@ -301,6 +301,8 @@ high-star plugins — install / use / gotchas. Star counts are from the night of
 2026-08-13. Entries under `dsh-external/*` are private repos and need read
 access.
 
+- [weibaohui/dsh-gaokao](https://github.com/weibaohui/dsh-gaokao) (★0) — Gaokao countdown blackboard: desktop blackboard widget counting down days to the gaokao (double-click to collapse into a slim bar), with random knowledge-card quizzes while the agent works; open Markdown knowledge-card framework, drop .md files under subject/category folders to auto-load.
+
 ### dsh-web-ui — Web UI 全家桶（★311）
 
 **装**：npm 已发布到 `@linxin666` scope，推荐直接装聚合包：
