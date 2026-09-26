@@ -294,6 +294,8 @@ Everything below is community-built and sits on top of these seams.
 - [unknowbug/RE-Framework](https://github.com/unknowbug/RE-Framework) (★5) / [unknowbug/anchorlaw](https://github.com/unknowbug/anchorlaw) (★4) — Frameworks.
 - [hxs996-beep/deepAct](https://github.com/hxs996-beep/deepAct) (★7) — deepAct.
 - [aga-j/dsh-mini-games](https://github.com/aga-j/dsh-mini-games) — Pure-frontend mini-game collection in the web details panel: guess-the-number, 2048, minesweeper (`dsh plugin --profile web add dsh-mini-games`).
+- [weibaohui/dsh-matrix](https://github.com/weibaohui/dsh-matrix) (★0) — Matrix digital rain: drapes the chat window in the classic green character rain — cascading columns with incandescent white heads and green tails, streaming the tokens the agent is generating into the rain in real time; opacity, speed, density, font size and colors are all adjustable, and rain intensity follows agent activity.
+
 
 
 ## Hands-on Notes
