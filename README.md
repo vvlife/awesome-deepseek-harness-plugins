@@ -303,6 +303,8 @@ access.
 
 - [weibaohui/dsh-gaokao](https://github.com/weibaohui/dsh-gaokao) (★0) — Gaokao countdown blackboard: desktop blackboard widget counting down days to the gaokao (double-click to collapse into a slim bar), with random knowledge-card quizzes while the agent works; open Markdown knowledge-card framework, drop .md files under subject/category folders to auto-load.
 
+- [weibaohui/dsh-fireworks](https://github.com/weibaohui/dsh-fireworks) (★0) — Fireworks celebration engine: floats fireworks above the chat window while the agent codes; welcome, per-turn, tool-spark, milestone, finish and failure events each draw from their own fireworks card group with random variants, and token usage decides firework size, height and splendour.
+
 ### dsh-web-ui — Web UI 全家桶（★311）
 
 **装**：npm 已发布到 `@linxin666` scope，推荐直接装聚合包：
