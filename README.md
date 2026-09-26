@@ -214,6 +214,8 @@ Everything below is community-built and sits on top of these seams.
 - [PerryLink/dsh-defend](https://github.com/PerryLink/dsh-defend) (★16) — Prompt-injection, jailbreak and secret-leak defense with allow/ask/block interception and sanitized audit events.
 - [PerryLink/dsh-laya](https://github.com/PerryLink/dsh-laya) (★1) — Laya typed decisions (`noul` yes/no, `choice`, `score`) as a first-class Cordis service plus the model-visible `laya_ask` and `laya_plan` tools; the plugin installs and downloads nothing and talks to a `laya-mcp serve` sidecar you start yourself.
 
+- [weibaohui/dsh-flow](https://github.com/weibaohui/dsh-flow) (★0) — Execution flow chart: renders the current session's execution as a vertical node flow (turns, user, assistant, tools, approvals, retries, compaction), appended in real time over SSE with auto-follow scrolling, so the chart draws wherever the session executes.
+
 ### Integrations & Bridges
 
 **中文**：把 DSH 接到 VS Code、桌面通知、或其它 Agent（Claude / Codex / Pi / OpenCode）的桥接类插件。
