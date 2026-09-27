@@ -176,6 +176,8 @@ Everything below is community-built and sits on top of these seams.
 - [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research) (★138) — Industry and company research pack: chain mapping, policy and news tracking, research cards and auditable reports.
 - [PerryLink/dsh-research-report](https://github.com/PerryLink/dsh-research-report) (★134) — Verifiable research reports: a content-addressed evidence ledger binds every claim to a snapshot.
 - [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) (★13) — Security-audit skill pack plus the plugin_vet supply-chain scanner: secret scan, dependency audit and prompt-injection review.
+- [weibaohui/dsh-dashboard](https://github.com/weibaohui/dsh-dashboard) (★0) — Usage dashboard: offline-scans session logs to chart daily/weekly/monthly tokens, estimated costs, model/tool/skill/command leaderboards, output speed, working hours and quality metrics; gridstack+ECharts cards are drag-and-drop composable, with custom formulas and AI arrangement (prompt round-trip import).
+
 
 ### Agent orchestration & Workflow
 
