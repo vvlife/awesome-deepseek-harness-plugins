@@ -220,6 +220,8 @@ Everything below is community-built and sits on top of these seams.
 - [PerryLink/dsh-laya](https://github.com/PerryLink/dsh-laya) (★1) — Laya typed decisions (`noul` yes/no, `choice`, `score`) as a first-class Cordis service plus the model-visible `laya_ask` and `laya_plan` tools; the plugin installs and downloads nothing and talks to a `laya-mcp serve` sidecar you start yourself.
 
 - [weibaohui/dsh-flow](https://github.com/weibaohui/dsh-flow) (★0) — Execution flow chart: renders the current session's execution as a vertical node flow (turns, user, assistant, tools, approvals, retries, compaction), appended in real time over SSE with auto-follow scrolling, so the chart draws wherever the session executes.
+- [weibaohui/dsh-thinktank](https://github.com/weibaohui/dsh-thinktank) (★0) — Think tank: a built-in library of 144 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel via AI, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports both automatic analysis and prompt round-trip import.
+
 
 ### Integrations & Bridges
 
