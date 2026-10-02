@@ -179,6 +179,7 @@ Everything below is community-built and sits on top of these seams.
 - [PerryLink/dsh-skill-pack-security](https://github.com/PerryLink/dsh-skill-pack-security) (★13) — Security-audit skill pack plus the plugin_vet supply-chain scanner: secret scan, dependency audit and prompt-injection review.
 - [weibaohui/dsh-dashboard](https://github.com/weibaohui/dsh-dashboard) (★0) — Usage dashboard: offline-scans session logs to chart daily/weekly/monthly tokens, estimated costs, model/tool/skill/command leaderboards, output speed, working hours and quality metrics; gridstack+ECharts cards are drag-and-drop composable, with custom formulas and AI arrangement (prompt round-trip import).
 - [siweina/dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) (★18) — A local workbench for Chinese web-novel writers: a pre-draft chapter brief gathers the previous hand-off, outline, character cards, unresolved plot threads and language rules; after drafting, a six-dimension prose baseline drives a quantified self-check and a prioritised revision plan with original line numbers; across chapters it reports plot-thread spans, characters missing too long and outline drift. All analysis runs on a bundled 24MB Chinese model on-device — zero API cost, the manuscript never leaves the machine; 18 tools, also shipped as an MCP server for Claude Desktop / Cursor.
+- [mubaid/dsh-fluent-korean](https://github.com/mubaid/dsh-fluent-korean) (★0) — Switchable Korean output styles: the plugin registers its own system-prompt section asking the model for natural Korean prose, with a second style that drops the coding guidance. The rules are snflkd/fluent-korean, carried over byte-identically under MIT. Install: `dsh plugin add mubaid/dsh-fluent-korean`.
 
 
 ### Agent orchestration & Workflow
@@ -262,6 +263,7 @@ Everything below is community-built and sits on top of these seams.
 - [PerryLink/dsh-session-sync](https://github.com/PerryLink/dsh-session-sync) (★11) — Cross-device session sync over a dedicated git mirror with append-only, keep-both conflict resolution.
 - [PerryLink/dsh-local-ai](https://github.com/PerryLink/dsh-local-ai) (★13) — Ollama integration: discover, pull and route to local models by task type, with automatic fallback to the cloud.
 - [PerryLink/dsh-reach](https://github.com/PerryLink/dsh-reach) (★0) — Mirrors approval and question cards to IM chat (WeChat iLink first) and answers them from chat, with a session console.
+- [mubaid/dsh-opencode-freeaccess](https://github.com/mubaid/dsh-opencode-freeaccess) (★0) — Puts the DSH conversation session id on outgoing requests so OpenCode's free tier accepts them, by listening on the `llm/stream` waterfall and injecting the session header family onto requests to opencode hosts. Non-opencode hosts are left alone; no API key needed. Install: `dsh plugin --profile web add github:mubaid/dsh-opencode-freeaccess`.
 
 ### Sidebar, Workspace & Ecosystem
 
