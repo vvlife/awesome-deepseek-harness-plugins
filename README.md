@@ -305,6 +305,8 @@ Everything below is community-built and sits on top of these seams.
 - [PerryLink/dsh-bid-ca-precheck](https://github.com/PerryLink/dsh-bid-ca-precheck) (★0) — Bid compliance pre-check: applies a versioned rule pack to a 投标符合性响应台账 and verifies every tender requirement has a recorded response, verdicts come from your configured vocabulary, clause numbers are unique, the register declares project and bidder, high-risk clauses carry evidence, and the requirement column still holds real requirements rather than template placeholders, flags differences only.
 - [dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard) — Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start. ⭐1
 - [weibaohui/dsh-favorites](https://github.com/weibaohui/dsh-favorites) (★1) — Session favorites: bookmark any conversation into a browser-style favorites panel — one-click star from session rows, folders for organization, notes, custom display names, resume session, fork into a new session, basic session stats, plus a fork-relationship graph showing how conversations derive from one another.
+- [weibaohui/dsh-sidebar-tidy](https://github.com/weibaohui/dsh-sidebar-tidy) (★0) — Sidebar tidy: when plugins pile up, the rows under 'New session' get crowded with panel and plugin entries. This plugin folds them all — global panel rows, plugin-injected entry rows (own and third-party alike), and bottom entries — into a single menu button whose secondary menu triggers each entry exactly as before; keep any entry permanently visible with a name whitelist, and the button turns into an icon when the sidebar collapses to a narrow rail.
+
 
 
 ### Fun & Misc
