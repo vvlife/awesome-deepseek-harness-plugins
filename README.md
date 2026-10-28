@@ -228,6 +228,7 @@ Everything below is community-built and sits on top of these seams.
 
 - [weibaohui/dsh-flow](https://github.com/weibaohui/dsh-flow) (★0) — Execution flow chart: renders the current session's execution as a vertical node flow (turns, user, assistant, tools, approvals, retries, compaction), appended in real time over SSE with auto-follow scrolling, so the chart draws wherever the session executes.
 - [weibaohui/dsh-thinktank](https://github.com/weibaohui/dsh-thinktank) (★0) — Think tank: a built-in library of 161 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel via AI, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports both automatic analysis and prompt round-trip import.
+- [yyfdfsyyf-source/dsh-context-fold](https://github.com/yyfdfsyyf-source/dsh-context-fold) (★2) — Context folding: spills oversized tool results to on-disk copies with deterministic head/tail markers, keeps a searchable ledger of compaction summaries, and extracts cross-session memories scoped per project; folded content is restored byte-for-byte through one tool call.
 
 
 ### Integrations & Bridges
