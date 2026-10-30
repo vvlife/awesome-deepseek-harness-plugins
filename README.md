@@ -270,6 +270,7 @@ Everything below is community-built and sits on top of these seams.
 - [PerryLink/dsh-local-ai](https://github.com/PerryLink/dsh-local-ai) (★13) — Ollama integration: discover, pull and route to local models by task type, with automatic fallback to the cloud.
 - [PerryLink/dsh-reach](https://github.com/PerryLink/dsh-reach) (★0) — Mirrors approval and question cards to IM chat (WeChat iLink first) and answers them from chat, with a session console.
 - [mubaid/dsh-opencode-freeaccess](https://github.com/mubaid/dsh-opencode-freeaccess) (★0) — Puts the DSH conversation session id on outgoing requests so OpenCode's free tier accepts them, by listening on the `llm/stream` waterfall and injecting the session header family onto requests to opencode hosts. Non-opencode hosts are left alone; no API key needed. Install: `dsh plugin --profile web add github:mubaid/dsh-opencode-freeaccess`.
+- [radres/dsh-plugin-call-me](https://github.com/radres/dsh-plugin-call-me) (★8) - Rings your real phone: `call_me` and `text_me` tools, plus optional turn-end and approval calls whose spoken answer is transcribed back into the run. Needs the /call-me phone app (iPhone or Android, paid). Install: `dsh plugin --profile web add github:radres/dsh-plugin-call-me`.
 
 ### Sidebar, Workspace & Ecosystem
 
