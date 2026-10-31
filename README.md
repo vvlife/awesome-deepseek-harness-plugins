@@ -142,6 +142,7 @@ Everything below is community-built and sits on top of these seams.
 
 ### Tools & Editor UX
 
+- [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) — Source-linked text memory for DSH with project scopes and revision history (public beta). ★0. Install: `dsh plugin --profile desktop add solopup-memory@0.21.0-beta.2 --ignore-scripts`.
 - [Zhangbo-cn/dsh-voice-input-plugin](https://github.com/Zhangbo-cn/dsh-voice-input-plugin) (★6) — Composer mic for the Web UI: tap-to-monitor live transcription and hold-to-talk, with host Edge TTS reply reading that streams while the model generates, echo-pause during reading, and tap-to-stop.
 
 **中文**：编辑器体验增强、`@file` 引用、消息分支编辑、会话回滚等"好不好用全靠它"的小工具。
