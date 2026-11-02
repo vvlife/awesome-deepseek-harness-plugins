@@ -107,6 +107,7 @@ Everything below is community-built and sits on top of these seams.
 - [PerryLink/dsh-output-styles](https://github.com/PerryLink/dsh-output-styles) (★7) — Runtime-switchable model output styles with per-session persistence, a style library and system-prompt injection.
 - [PerryLink/dsh-session-pin](https://github.com/PerryLink/dsh-session-pin) (★9) — Pin sessions and workspaces to the top of the sidebar with per-pin row colors.
 - [PerryLink/dsh-talk](https://github.com/PerryLink/dsh-talk) (★11) — Voice-first session loop: a composer microphone button with speech-to-text, a speak tool for replies, and speak-to-interrupt.
+- [QingJ01/dsh-prompt-prediction](https://github.com/QingJ01/dsh-prompt-prediction) (★0) — Codex-style next-prompt prediction for the web composer: after a turn completes, likely next messages appear as ghost text in the empty input; Tab or ArrowRight turns one into an editable draft (undoable, never auto-sent), while Enter keeps DSH submission.
 
 ### Terminal & Desktop
 
