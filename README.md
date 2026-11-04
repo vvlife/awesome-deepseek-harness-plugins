@@ -235,6 +235,7 @@ Everything below is community-built and sits on top of these seams.
 - [weibaohui/dsh-thinktank](https://github.com/weibaohui/dsh-thinktank) (★0) — Think tank: a built-in library of 161 classic mental models (decision/strategy/cognition/psychology/communication/learning/system/innovation/execution) — enter one question and several selected models analyze it in parallel via AI, producing a synthesized report with consensus, disagreements, blind spots and an action checklist; supports both automatic analysis and prompt round-trip import.
 - [yyfdfsyyf-source/dsh-context-fold](https://github.com/yyfdfsyyf-source/dsh-context-fold) (★2) — Context folding: spills oversized tool results to on-disk copies with deterministic head/tail markers, keeps a searchable ledger of compaction summaries, and extracts cross-session memories scoped per project; folded content is restored byte-for-byte through one tool call.
 - [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) (★27) — Compare two running Vite implementations in DSH conversations, choose blind, and review adoption against current project edits.
+- [BugGPS](https://github.com/lijiaqi-AI-Product-Manager/dsh-bug-gps) (★1) — Records browser bugs, freezes expected results, and verifies fixes against a fresh original-code control. DSH 0.2.1-rc.5 headless/web.
 
 
 ### Integrations & Bridges
