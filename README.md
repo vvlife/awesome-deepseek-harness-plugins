@@ -189,6 +189,8 @@ Everything below is community-built and sits on top of these seams.
 - [WJDdidi-1/ai-context-doctor](https://github.com/WJDdidi-1/ai-context-doctor) (★1) — Grades what a repository or a past session actually read, warns before it floods the context window, and writes the `.aiignore` rules that stop the worst of it; the sidebar panel follows the current conversation.
 
 
+- [hxlog/dsh-skills-tools](https://github.com/hxlog/dsh-skills-tools) (★1) — Skills manager for DSH settings: import Agent Skills from Git repositories, group them by repository, toggle each skill, and expand SKILL.md content. Disabled skills stay out of the model context.
+
 ### Agent orchestration & Workflow
 
 **中文**：多 Agent 团队、可治理的工作流、会话蒸馏等"把一次性调度变成工程资产"的编排类插件。
