@@ -316,7 +316,7 @@ Everything below is community-built and sits on top of these seams.
 - [weibaohui/dsh-sidebar-tidy](https://github.com/weibaohui/dsh-sidebar-tidy) (★0) — Sidebar tidy: when plugins pile up, the rows under 'New session' get crowded with panel and plugin entries. This plugin folds them all — global panel rows, plugin-injected entry rows (own and third-party alike), and bottom entries — into a single menu button whose secondary menu triggers each entry exactly as before; keep any entry permanently visible with a name whitelist, and the button turns into an icon when the sidebar collapses to a narrow rail.
 - [WJDdidi-1/dsh-plugin-toolkit](https://github.com/WJDdidi-1/dsh-plugin-toolkit) (★1) — Preflight for plugin authors: packs the plugin the way npm would, installs the tarball, imports the root export the loader mounts and mounts the panel, so a plugin the host would drop fails before release; also `init`, `dev` and `release`.
 - [WJDdidi-1/dsh-plugin-example](https://github.com/WJDdidi-1/dsh-plugin-example) (★0) — A ~70-line plugin to copy from: one sidebar tab, a host half, a bundle manifest and a passing preflight.
-
+- [QingJ01/dsh-side-tasks](https://github.com/QingJ01/dsh-side-tasks) (★0) — Temporary, context-inheriting side chats in the right sidebar: each opens an independent root session with its own transcript, model, permissions and usage, stays out of the ordinary session list, and is stopped and archived when its tab closes; requires the Harness adapter patch shipped in the repository.
 
 
 ### Fun & Misc
