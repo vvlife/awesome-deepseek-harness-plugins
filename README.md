@@ -488,6 +488,7 @@ with daily compatibility tracking:
 - [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) (★8)
 - [walkinglabs/awesome-deepseek-harness-plugins](https://github.com/walkinglabs/awesome-deepseek-harness-plugins) (★1)
 - [satan9394/dsh-public](https://github.com/satan9394/dsh-public) (★0) — 统一精选目录：合并 awesome-deepseek-harness 与 awesome-deepseek-harness-plugins，跨源去重、剔除死链（3362 条）。A single deduplicated DSH curated list (plugins / skills / MCP / UI) merged from both awesome lists.
+- [dsplugin.app](https://dsplugin.app/) — DeepSeek Harness plugin directory.
 
 ## Contributing
 
