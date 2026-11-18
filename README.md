@@ -236,6 +236,7 @@ Everything below is community-built and sits on top of these seams.
 - [yyfdfsyyf-source/dsh-context-fold](https://github.com/yyfdfsyyf-source/dsh-context-fold) (★2) — Context folding: spills oversized tool results to on-disk copies with deterministic head/tail markers, keeps a searchable ledger of compaction summaries, and extracts cross-session memories scoped per project; folded content is restored byte-for-byte through one tool call.
 - [lijiaqi-AI-Product-Manager/dsh-agent-compare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) (★426) — AgentCompare compares 2–4 answers, files or live pages in the DSH Desktop/Web main conversation, with Chinese/English UI, shared conversation context, blind or open picks and reviewed adoption. [Screenshots and demo](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare/blob/v3.1.1/docs/storefront-gallery.md)
 - [BugGPS](https://github.com/lijiaqi-AI-Product-Manager/dsh-bug-gps) (★1) — Records browser bugs, freezes expected results, and verifies fixes against a fresh original-code control. DSH 0.2.1-rc.5 headless/web.
+- [wychmod/dsh-mini-superagent](https://github.com/wychmod/dsh-mini-superagent) (★1) — Task dispatch from the main session to independent background sub-sessions that return immediately and report back automatically; a sidebar workbench shows concurrency, queueing, batch progress and failure reasons, with cancel, retry and archive. 10 `dispatch_*` tools, zero runtime dependencies, pure ESM. Install: `dsh plugin add dsh-mini-superagent`.
 
 
 ### Integrations & Bridges
