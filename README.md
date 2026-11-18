@@ -76,6 +76,7 @@ building blocks every community plugin extends. Highlights:
 Everything below is community-built and sits on top of these seams.
 
 ## Community plugins
+- [wwewtech/numes-deepseek-harness](https://github.com/wwewtech/numes-deepseek-harness) — Free Numes models in DeepSeek Harness: zero-dependency local proxy with a hard `$0` route (`:free` + `max_price` guards), never-give-up retries (5s to 5m), free-model auto-discovery, and paid-model protection.
 
 ### Web UI & Skins
 
