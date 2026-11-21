@@ -322,6 +322,8 @@ Everything below is community-built and sits on top of these seams.
 - [QingJ01/dsh-side-tasks](https://github.com/QingJ01/dsh-side-tasks) (★0) — Temporary, context-inheriting side chats in the right sidebar: each opens an independent root session with its own transcript, model, permissions and usage, stays out of the ordinary session list, and is stopped and archived when its tab closes; requires the Harness adapter patch shipped in the repository.
 
 
+- [shiyan688/dsh-note-to-learn](https://github.com/shiyan688/dsh-note-to-learn) (★0) — A Windows DSH Desktop notebook for capturing web and PDF excerpts, accepting follow-up questions with Tab, and saving selected AI replies as editable notes. Supports English and Simplified Chinese. [Install from the release](https://github.com/shiyan688/dsh-note-to-learn/releases/tag/v0.1.3).
+
 ### Fun & Misc
 
 **中文**：合影墙、音乐、框架类实验等"好玩 / 杂项"插件。
