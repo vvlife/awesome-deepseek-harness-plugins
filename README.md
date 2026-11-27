@@ -323,6 +323,7 @@ Everything below is community-built and sits on top of these seams.
 
 
 - [shiyan688/dsh-note-to-learn](https://github.com/shiyan688/dsh-note-to-learn) (★0) — A Windows DSH Desktop notebook for capturing web and PDF excerpts, accepting follow-up questions with Tab, and saving selected AI replies as editable notes. Supports English and Simplified Chinese. [Install from the release](https://github.com/shiyan688/dsh-note-to-learn/releases/tag/v0.1.3).
+- [afspero/CanvasMind](https://github.com/afspero/CanvasMind) — Full-page canvas workspace: project canvas with 23 node types, Excalidraw whiteboard and a component studio; local JSON storage, reuses the harness default model.
 
 ### Fun & Misc
 
